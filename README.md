@@ -12,5 +12,6 @@
   pkg install figlet<br>
   pkg install toilet<br>
   git clone https://github.com/zalgipranatasyahputra/BoyXD<br>
-  cd BoyXD
+  cd BoyXD<br>
+  unzip Toed.zip
   </b>

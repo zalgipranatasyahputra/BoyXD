@@ -5,11 +5,12 @@
   pkg install curl<br>
   pkg install git<br>
   pkg install ruby<br>
-  pkg install node-lts<br>
+  pkg install nodejs-lts<br>
   pkg install python -y<br>
   pkg install pip<br>
   pkg install sh<br>
   pkg install figlet<br>
   pkg install toilet<br>
   git clone https://github.com/zalgipranatasyahputra/BoyXD<br>
+  cd BoyXD
   </b>

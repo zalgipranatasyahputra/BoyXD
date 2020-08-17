@@ -1,3 +1,8 @@
+<h1>Ikuti ini dulu</h1>
+Setelah tools sudah didownload,ketik ini<br>
+cd BoyXD<br>
+unzip BoyXD.zip<br><br>
+
 <h1>Tools Instagram</h1><br>
 <b>Perintah:</b><br>
 pkg update && pkg upgrade<br>

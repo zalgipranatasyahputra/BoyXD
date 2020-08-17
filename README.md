@@ -1,23 +1,15 @@
-<h1>Ikuti ini dulu</h1>
-Setelah tools sudah didownload,ketik ini<br>
-cd BoyXD<br>
-unzip BoyXD.zip<br><br>
-
-<h1>Tools Instagram</h1><br>
-<b>Perintah:</b><br>
-pkg update && pkg upgrade<br>
-pkg install git<br>
-pkg install nodejs-lts<br>
-git clone https://github.com/zalgipranatasyahputra/BoyXD<br>
-cd BoyXD<br>
-cd Instagram<br>
-npm install instagram-private-api<br>
-node index.js<br><br>
-<h1>Tools Toed</h1><br>
-<b>Perintah:</b><br>
-pkg update && pkg upgrade<br>
-pkg install git<br>
-git clone https://github.com/zalgipranatasyahputra/BoyXD<br>
-cd BoyXD<br>
-cd Toed<br>
-chmod 777 tools<br>
+<h1 style="color:red;">Install Tools <font color="black">BoyXD Shop</h1><br>
+  <b>
+  pkg update && pkg upgrade<br>
+  pkg install php<br>
+  pkg install curl<br>
+  pkg install git<br>
+  pkg install ruby<br>
+  pkg install node-lts<br>
+  pkg install python -y<br>
+  pkg install pip<br>
+  pkg install sh<br>
+  pkg install figlet<br>
+  pkg install toilet<br>
+  git clone https://github.com/zalgipranatasyahputra/BoyXD<br>
+  </b>

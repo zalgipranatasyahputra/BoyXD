@@ -15,3 +15,47 @@
   cd BoyXD<br>
   unzip BoyXD.zip
   </b>
+<br><br>
+  <h1 style="color:red;">Facebook Mass Accoun Checker</h1><br>
+  <b>
+    cd facebook<br>
+    php 24161.php namaempass.txt
+  </b>
+  <br><br>
+  <h1 style="color:red;">Tools Instagram</h1><br>
+  <b>
+    cd toolsig<br>
+    unzip lib.zip<br>
+    node index.js
+  </b>
+  <br><br>
+  <h1 style="color:red;">Moonton Account Checker</h1><br>
+  <b>
+    cd Moonton Account Checker<br>
+    python moonton.py
+  </b>
+  <br><br>
+  <h1 style="color:red;">Auto Visitor Blog</h1><br>
+  <b>
+    cd autovisitor<br>
+    php visit.php
+  </b>
+  <br><br>
+  <h1 style="color:red;">Amazon Account Checker</h1><br>
+  <b>
+  sh amazon.sh
+  </b>
+  <br><br>
+  <h1 style="color:red;">Hotmail Account Checker</h1><br>
+  <b>
+    sh hotmail.sh
+  </b>
+  <br><br>
+  <h1 style="color:red;">Joox Account Checker</h1><br>
+  <b>
+    sh joox.sh
+  </b>
+  <br><br>
+  <marquee>
+    <b>[+] Zalgi Pranata Syahputra - BoyXD [+]</b>
+  </marquee>

@@ -1,3 +1,10 @@
+<h1>INFORMASI</h1>
+<b>
+  Autor:Zalgi Pranata Syahputra (BoyXD)<br>
+  Instagram:zalgi_pranata<br>
+  WhatsApp:0896-0252-9852<br>
+  Facebook:www.facebook.com/zlgiprnta.syahputra
+  </b><br><hr>
 <h1 style="color:red;">Install Tools <font color="black">BoyXD Shop</h1><br>
   <b>
   pkg update && pkg upgrade<br>
@@ -55,7 +62,3 @@
   <b>
     sh joox.sh
   </b>
-  <br><br>
-  <center>
-    <b style="color:red">[+] Zalgi Pranata Syahputra - BoyXD [+]</b>
-  </center>

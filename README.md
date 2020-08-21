@@ -13,5 +13,5 @@
   pkg install toilet<br>
   git clone https://github.com/zalgipranatasyahputra/BoyXD<br>
   cd BoyXD<br>
-  unzip Toed.zip
+  unzip BoyXD.zip
   </b>

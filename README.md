@@ -1,8 +1,8 @@
 <h1>INFORMASI</h1>
 <b>
   Autor:Zalgi Pranata Syahputra (BoyXD)<br>
-  Instagram:zalgi_pranata<br>
-  WhatsApp:0896-0252-9852<br>
+  Instagram:www.instagram.com/zalgi_pranata<br>
+  WhatsApp:www.wa.me/6289602529852<br>
   Facebook:www.facebook.com/zlgiprnta.syahputra
   </b><br><hr>
 <h1 style="color:red;">Install Tools <font color="black">BoyXD Shop</h1><br>

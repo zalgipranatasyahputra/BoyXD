@@ -16,7 +16,7 @@
   unzip BoyXD.zip
   </b>
 <br><br>
-  <h1 style="color:red;">Facebook Mass Accoun Checker</h1><br>
+  <h1 style="color:red;">Facebook Mass Account Checker</h1><br>
   <b>
     cd facebook<br>
     php 24161.php namaempass.txt
@@ -56,6 +56,6 @@
     sh joox.sh
   </b>
   <br><br>
-  <marquee>
-    <b>[+] Zalgi Pranata Syahputra - BoyXD [+]</b>
-  </marquee>
+  <center>
+    <b style="color:red">[+] Zalgi Pranata Syahputra - BoyXD [+]</b>
+  </center>

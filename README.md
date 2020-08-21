@@ -3,7 +3,8 @@
   Autor:Zalgi Pranata Syahputra (BoyXD)<br>
   Instagram:www.instagram.com/zalgi_pranata<br>
   WhatsApp:www.wa.me/6289602529852<br>
-  Facebook:www.facebook.com/zlgiprnta.syahputra
+  Facebook:www.facebook.com/zlgiprnta.syahputra<br>
+  Update:21-Agustus-2020
   </b><br><hr>
 <h1 style="color:red;">Install Tools <font color="black">BoyXD Shop</h1><br>
   <b>
